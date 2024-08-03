@@ -1,11 +1,8 @@
-# Tugas Pemograman Web 3
-## Profil
-| #               | Biodata           |
-| --------------- | ----------------- |
-| **Nama**        | NAFAL MUMTAZ FUADI |
-| **NIM**         | 312110457       |
-| **Kelas**       | TI.21.A.2         |
-| **Mata Kuliah** | Pemrograman Web 2 |
+Ananda Putri Dwi Permatasari
+
+312210435
+
+Teknik Informatika - Pemrograman Web 2
 
 ## Langkah-langkah Praktikum
 ### Persiapan
